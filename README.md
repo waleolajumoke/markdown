@@ -1,8 +1,18 @@
-[heading]:
+# Table of Content
+- Basic Syntax
+  - [Headings](#Heading)
+  - [Horizontal rule](#Formnatting)
+  - [Text formatting]()
+- Extended syntax
+  - [Table]()
+  - [Task List]()
+
+##  Heading
 # End to end DevOps Project
 ## Overview
 ### subheding for the project
 
+## Formatting
 **bold text** example
 *Italics* slant content
 
@@ -49,11 +59,3 @@ ___
 😂
 😄
 
-# Table of Content
-- Basic Syntax
-  - [Headings](heading)
-  - [Horizontal rule]()
-  - [Text formatting]()
-- Extended syntax
-  - [Table]()
-  - [Task List]()
