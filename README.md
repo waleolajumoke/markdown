@@ -7,7 +7,7 @@
   - [Table]()
   - [Task List]()
 
-##  Heading
+## Heading
 # End to end DevOps Project
 ## Overview
 ### subheding for the project
