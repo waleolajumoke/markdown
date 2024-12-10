@@ -1,7 +1,7 @@
 # Table of Content
 - Basic Syntax
   - [Headings](#Heading)
-  - [Horizontal rule](#Formnatting)
+  - [Horizontal rule](#Formatting)
   - [Text formatting]()
 - Extended syntax
   - [Table]()
