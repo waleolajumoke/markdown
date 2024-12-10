@@ -1,10 +1,10 @@
 # Table of Content
 - Basic Syntax
   - [Headings](#Heading)
-  - [Horizontal rule](#Formatting)
-  - [Text formatting]()
+  - [Horizontal rule]()
+  - [Text formatting](#Formatting)
 - Extended syntax
-  - [Table]()
+  - [Table](#Table)
   - [Task List]()
 
 ## Heading
@@ -46,6 +46,7 @@ You can preview the project [here](https://tech365.ng 'Tech365 website')
 ***
 ___
 
+## Table
 | S/N | Name | Email | Age |
 | :- | :-   | :-    | :-  |
 | 1. | Wale | w@gmail.com | 22 |
