@@ -1,3 +1,4 @@
+[heading]
 # End to end DevOps Project
 ## Overview
 ### subheding for the project
@@ -30,6 +31,29 @@ def add_numbers():
 
 You can preview the project [here](https://tech365.ng 'Tech365 website')
 
+![wale picture](/download.jpeg)
+---
+***
+___
+
+| S/N | Name | Email | Age |
+| :- | :-   | :-    | :-  |
+| 1. | Wale | w@gmail.com | 22 |
+| 2. |Mary  | mary@gmail.comn | 30 |
 
 
+- [x] Learn DevOps
+- [x] Build project
+- [ ] Apply the knowledge
 
+😂
+😄
+
+# Table of Content
+- Basic Syntax
+  - [Headings](heading)
+  - [Horizontal rule]()
+  - [Text formatting]()
+- Extended syntax
+  - [Table]()
+  - [Task List]()
